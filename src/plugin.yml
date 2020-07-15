@@ -1,0 +1,10 @@
+name: roulette
+version: 1.0
+author: Nomaj
+main: me.nomaj.sample.Main
+description: sample plugin
+
+commands:
+  roulette:
+    aliases: [r]
+    description: command
